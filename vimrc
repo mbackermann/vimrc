@@ -49,3 +49,4 @@ set formatoptions=qrn1
 set colorcolumn=85
 nnoremap <leader>v <C-w>v<C-w>l
 nnoremap <leader>h <C-w>s<C-w>j
+set wildignore+=*/node_modules/*
