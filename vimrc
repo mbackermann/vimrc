@@ -11,9 +11,9 @@ set hidden
 set history=100
 filetype indent on
 set nowrap
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set expandtab
 set smartindent
 set autoindent
@@ -50,3 +50,5 @@ set colorcolumn=85
 nnoremap <leader>v <C-w>v<C-w>l
 nnoremap <leader>h <C-w>s<C-w>j
 set wildignore+=*/node_modules/*
+nnoremap <leader>a :Ack
+nnoremap <leader>q :Bonly<CR>
