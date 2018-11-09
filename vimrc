@@ -5,6 +5,7 @@ colorscheme Tomorrow-Night-Eighties
 set hls
 set number
 let mapleader = ","
+let g:ycm_server_python_interpreter = '/usr/bin/python'
 nnoremap <leader><space> :noh<cr>
 map <leader>s :source ~/.vimrc<CR>
 set hidden
@@ -27,7 +28,6 @@ set showcmd
 set wildmenu
 set wildmode=list:longest
 set visualbell
-set cursorline
 set ttyfast
 set ruler
 set backspace=indent,eol,start
@@ -52,3 +52,6 @@ nnoremap <leader>h <C-w>s<C-w>j
 set wildignore+=*/node_modules/*
 nnoremap <leader>a :Ack
 nnoremap <leader>q :Bonly<CR>
+vnoremap < <gv
+vnoremap > >gv
+set timeoutlen=1000 ttimeoutlen=0

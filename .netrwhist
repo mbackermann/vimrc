@@ -1,11 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_cnt =2
 let g:netrw_dirhist_1='/Users/mauricioackermann/Projects/orphel/services'
-let g:netrw_dirhist_2='/Users/mauricioackermann/Projects/orphel/services/lib'
-let g:netrw_dirhist_3='/Users/mauricioackermann/Projects/orphel/services/lib/auth'
-let g:netrw_dirhist_4='/Users/mauricioackermann/Projects/orphel/services/lib'
-let g:netrw_dirhist_5='/Users/mauricioackermann/Projects/orphel/services/lib/db'
-let g:netrw_dirhist_6='/Users/mauricioackermann/Projects/orphel/services/users'
-let g:netrw_dirhist_7='/Users/mauricioackermann/Projects/orphel/services'
-let g:netrw_dirhist_8='/Users/mauricioackermann/Projects/orphel/services/lib'
-let g:netrw_dirhist_9='/Users/mauricioackermann/Projects/orphel/services/lib/db'
+let g:netrw_dirhist_2='/Users/mauricioackermann/Projects/orphel/database/migrations'
