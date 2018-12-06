@@ -6,3 +6,6 @@
 	path = bundle/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
 
+[submodule "bundle/lighline.vim"]
+	path = bundle/lighline.vim
+	url = https://github.com/itchyny/lightline.vim
