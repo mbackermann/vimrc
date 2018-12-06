@@ -5,6 +5,4 @@
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
-[submodule "/Users/mauricioackermann/.vim/bundle/lightline.vim"]
-	path = /Users/mauricioackermann/.vim/bundle/lightline.vim
-	url = https://github.com/itchyny/lightline.vim
+
