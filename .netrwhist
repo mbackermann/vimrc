@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/mauricioackermann/Projects/converplast'
-let g:netrw_dirhist_2='/Users/mauricioackermann/Projects/converplast/src'
-let g:netrw_dirhist_3='/Users/mauricioackermann/Projects/converplast'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/mauricioackermann/Projects/orphel/services/facebook'
+let g:netrw_dirhist_2='/Users/mauricioackermann/Projects/orphel/services'
+let g:netrw_dirhist_3='/Users/mauricioackermann/Projects/orphel/expo'
+let g:netrw_dirhist_4='/Users/mauricioackermann/Projects/orphel/expo/src'
+let g:netrw_dirhist_5='/Users/mauricioackermann/Projects/orphel/expo/src/sagas'
+let g:netrw_dirhist_6='/Users/mauricioackermann/rails/kisoul/app'
+let g:netrw_dirhist_7='/Users/mauricioackermann/.vim'
+let g:netrw_dirhist_8='/Users/mauricioackermann/.vim/bundle/sparkup'

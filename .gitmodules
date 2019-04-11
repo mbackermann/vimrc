@@ -9,3 +9,18 @@
 [submodule "bundle/lighline.vim"]
 	path = bundle/lighline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = https://github.com/rstacruz/sparkup.git
+[submodule "bundle/vim-bufonly"]
+	path = bundle/vim-bufonly
+	url = https://github.com/schickling/vim-bufonly
+[submodule "bundle/vim-jsx-improve"]
+	path = bundle/vim-jsx-improve
+	url = https://github.com/neoclide/vim-jsx-improve.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
