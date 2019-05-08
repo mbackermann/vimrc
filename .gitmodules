@@ -29,3 +29,6 @@
 	path = bundle/command-t
 	url = https://github.com/wincent/command-t.git
 
+[submodule "bundle/vim-wakatime"]
+	path = bundle/vim-wakatime
+	url = git://github.com/wakatime/vim-wakatime.git

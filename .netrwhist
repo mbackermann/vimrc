@@ -1,2 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/mauricioackermann/rails/relaciona-flin-rails/app/controllers/admin'
+let g:netrw_dirhist_2='/Users/mauricioackermann/rails/relaciona-flin-rails/app'
+let g:netrw_dirhist_3='/Users/mauricioackermann/rails/relaciona-flin-rails/app/mailers'
+let g:netrw_dirhist_4='/Users/mauricioackermann/rails/abdi/app'
+let g:netrw_dirhist_5='/Users/mauricioackermann/rails/sofatutor/app'
+let g:netrw_dirhist_6='/Users/mauricioackermann/rails/sofatutor/app/controllers'
