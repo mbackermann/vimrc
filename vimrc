@@ -1,5 +1,8 @@
 execute pathogen#infect()
 
+" Set no compatible to avoid unexpected behaver from distro
+set nocompatible
+set t_ut=
 
 " LEADER KEY
 let mapleader = ","
@@ -51,9 +54,6 @@ set expandtab
 
 autocmd BufWritePre * :%s/\s\+$//e
 
-" Set no compatible to avoid unexpected behaver from distro
-set nocompatible
-set t_ut=
 
 
 set modelines=0
@@ -68,6 +68,7 @@ set ttyfast
 set ruler
 set backspace=indent,eol,start
 set laststatus=2
+set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
 set relativenumber
 set undofile
 nnoremap / /\v
@@ -96,3 +97,14 @@ vnoremap < <gv
 vnoremap > >gv
 let g:CommandTEncoding = 'UTF-8'
 set timeoutlen=1000 ttimeoutlen=0
+
+let g:netrw_browse_split = 4
+let g:netrw_winsize = 40
+
+"Highlight the cursorline
+set cursorline
+
+"Enable mouse for scrolling and resizing.
+set mouse=a
+
+set title
